@@ -1,0 +1,36 @@
+/*Seletores*/
+body{
+    background: url('imagens/fundo.png') #d2d3c1;
+    font-size: 16px;
+}
+a{
+    text-decoration: none;
+    color:#000c3c;
+}
+/*ID's*/
+#principal{
+    width: 900px;
+    margin: auto;
+}
+#menu-nav{
+    background-color: #AAAA96;
+    padding: 15px;
+    border-radius: 15px;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+#content{
+    background-color: #fcf8e4;
+    padding: 5px;
+    border-radius: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #696037;
+}
+#rodape{
+    text-align: center;
+}
+/*Classes*/
+.img-capa{
+    border-radius: 15px;
+    box-shadow: 25px -10px 45px;
+}
